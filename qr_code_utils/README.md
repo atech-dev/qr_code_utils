@@ -30,7 +30,7 @@ Or in text format add the key:
 ## Example
 
 ```dart
-import 'package:qr_code_tools/qr_code_tools.dart';
+import 'package:qr_code_utils/qr_code_utils.dart';
 
 String _data;
 /// decode from local file
